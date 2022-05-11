@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LEWAMI
 - 👀 I’m interested in mobile app projects 
-- 🌱 I’m currently learning Flutter and Bubble and design in general
+- 🌱 I’m currently product design
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: reinepego@gmail.com
 
